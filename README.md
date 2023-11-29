@@ -7,8 +7,9 @@ The purposes of this analysis are,
 i) to guide the general public to know nursing homes with high overall rating, which will aid in choicemaking for loved ones;
 ii) to assist nursing homes identify areas needed for improvement.
 ## Data Source
-- The main data set (Provider_Info Nursing.csv) was sourced by data.world; however, it can also be found on Kaggle.
+- The main data set (Provider_Info Nursing.csv) was sourced by [data.world](https://data.world/health); however, it can also be found on [Kaggle](https://www.kaggle.com/datasets/thedevastator/nursing-home-quality-staffing).
 - The United States JSON file was accessed in November 2023
+- A script of a Time Series analysis, not related to the USA Nursing Homes analysis, is included in the Scripts folder. The data set used for this analysis was sourced by [Nasdaq Data Link]( https://data.nasdaq.com/institutional-investors)
 ## Tools Used
 - Python
 - Tableau
